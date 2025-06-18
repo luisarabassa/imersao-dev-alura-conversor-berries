@@ -1,0 +1,86 @@
+body {
+  background-image: url('https://wallpapers-clan.com/wp-content/uploads/2023/11/one-piece-world-map-desktop-wallpaper-preview.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+  padding-top: 40px;
+  margin: 0;
+  font-family: Arial, sans-serif;
+  color: #35241e;
+  position: relative;
+}
+
+.logo {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  max-width: 150px;
+  width: auto;
+}
+
+#onepiece{
+  padding-top: 10px;
+  max-width: 150px;
+  width: auto;
+}
+
+p {
+  font-size: 1.1rem;
+  text-align: center;
+  color: #35241e;
+  max-width: 37rem;
+}
+
+.container {
+  width: 90%;
+  max-width: 800px;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin: 0 auto;
+}
+
+h1{
+  text-transform: capitalize;
+}
+
+#cartaz{
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
+  max-width: 15rem;
+  height: auto;
+  padding: 15px;
+  margin-bottom: 8px;
+}
+
+.content {
+  background-color: #d9c8b3;
+  text-align: center;
+  padding: 20px 40px;
+  border-radius: 8px;
+}
+
+button {
+  border-radius: 5px;
+  margin: 10px;
+  background-color: #cea06c;
+  border: none;
+  padding: 10px 20px;
+  font-size: 1.2em;
+  color: #35241e;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:active {
+  transform: scale(0.95);
+}
+
+button:hover {
+  background-color: #647c58;
+}
+
+footer {
+  text-align: center;
+  padding: 10px;
+}
