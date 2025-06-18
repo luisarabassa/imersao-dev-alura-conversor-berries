@@ -13,7 +13,7 @@ Projeto desenvolvido durante a **Imersão Dev 9º Edição da Alura**. Uma pági
 
 ## 🐣 Aprendizados
 - Manipulação de DOM com JS
-- Lógica básica de conversão e interação
+- Reforcei minha Lógica básica com a conversão e interações
 - Estilização com identidade visual temática
 
 ## 🚀 Como Executar
