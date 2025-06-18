@@ -11,7 +11,7 @@ Projeto desenvolvido durante a Imersão Dev 9º Edição da Alura. Uma página i
 - Layout responsivo
 - Animações básicas com CSS
 
-## 📚 Aprendizados
+## 🔍 Aprendizados
 - Manipulação de DOM com JS
 - Lógica básica de conversão e interação
 - Estilização com identidade visual temática
