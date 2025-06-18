@@ -9,7 +9,6 @@ Projeto desenvolvido durante a **Imersão Dev 9º Edição da Alura**. Uma pági
 ## 🎯 Tecnologias utilizadas
 - HTML, CSS, JavaScript
 - Layout responsivo
-- Animações básicas com CSS
 
 ## 🐣 Aprendizados
 - Manipulação de DOM com JS
