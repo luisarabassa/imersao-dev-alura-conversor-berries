@@ -21,4 +21,4 @@ Projeto desenvolvido durante a Imersão Dev 9º Edição da Alura. Uma página i
 1. Clone o repositório:
    
    ```bash
-   git clone https://github.com/luisarabassa/imersao-dev-alura-jogo-pokemon.git
+   git clone https://github.com/luisarabassa/imersao-dev-alura-conversor-berries.git
